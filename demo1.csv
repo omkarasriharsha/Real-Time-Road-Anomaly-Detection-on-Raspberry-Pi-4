@@ -1,0 +1,143 @@
+Serial_Number,Frame_Number,Total_Potholes,Total_Obstacles,Pothole_Details,Obstacle_Details
+1,1,4,0,"Pothole:conf=0.8906,bbox=(479,591,726,688),diameter=172.0px | Pothole:conf=0.8784,bbox=(1162,298,1439,346),diameter=162.5px | Pothole:conf=0.859,bbox=(364,356,516,393),diameter=94.5px | Pothole:conf=0.83,bbox=(666,720,1838,1026),diameter=739.0px",None
+2,2,2,0,"Pothole:conf=0.9354,bbox=(418,642,743,794),diameter=238.5px | Pothole:conf=0.9095,bbox=(1169,303,1467,356),diameter=175.5px",None
+3,3,2,0,"Pothole:conf=0.8785,bbox=(1185,307,1488,366),diameter=181.0px | Pothole:conf=0.867,bbox=(349,694,692,871),diameter=260.0px",None
+4,4,4,0,"Pothole:conf=0.8615,bbox=(1195,314,1508,375),diameter=187.0px | Pothole:conf=0.7829,bbox=(259,771,667,971),diameter=304.0px | Pothole:conf=0.7546,bbox=(77,501,702,593),diameter=358.5px | Pothole:conf=0.751,bbox=(267,397,449,444),diameter=114.5px",None
+5,5,2,0,"Pothole:conf=0.8867,bbox=(1198,323,1529,381),diameter=194.5px | Pothole:conf=0.8641,bbox=(976,368,1084,406),diameter=73.0px",None
+6,6,3,0,"Pothole:conf=0.8814,bbox=(1215,333,1556,397),diameter=202.5px | Pothole:conf=0.807,bbox=(171,429,391,493),diameter=142.0px | Pothole:conf=0.7718,bbox=(2,559,678,719),diameter=418.0px",None
+7,7,4,0,"Pothole:conf=0.9535,bbox=(1234,343,1581,409),diameter=206.5px | Pothole:conf=0.9047,bbox=(131,447,353,516),diameter=145.5px | Pothole:conf=0.8652,bbox=(0,602,661,769),diameter=414.0px | Pothole:conf=0.8086,bbox=(978,388,1106,442),diameter=91.0px",None
+8,8,2,0,"Pothole:conf=0.9207,bbox=(1240,459,1481,507),diameter=144.5px | Pothole:conf=0.8587,bbox=(79,464,322,540),diameter=159.5px",None
+9,9,3,0,"Pothole:conf=0.9033,bbox=(1250,356,1639,431),diameter=232.0px | Pothole:conf=0.821,bbox=(993,428,1130,486),diameter=97.5px | Pothole:conf=0.7531,bbox=(12,471,321,581),diameter=209.5px",None
+10,10,3,0,"Pothole:conf=0.8946,bbox=(1262,363,1684,448),diameter=253.5px | Pothole:conf=0.7962,bbox=(0,499,254,617),diameter=186.0px | Pothole:conf=0.753,bbox=(1007,324,1101,370),diameter=70.0px",None
+11,11,4,0,"Pothole:conf=0.9246,bbox=(0,524,231,679),diameter=193.0px | Pothole:conf=0.9105,bbox=(1302,374,1731,474),diameter=264.5px | Pothole:conf=0.8764,bbox=(1322,539,1660,632),diameter=215.5px | Pothole:conf=0.7763,bbox=(1504,721,1767,842),diameter=192.0px",None
+12,12,6,0,"Pothole:conf=0.974,bbox=(0,563,183,734),diameter=177.0px | Pothole:conf=0.9078,bbox=(1305,387,1783,498),diameter=294.5px | Pothole:conf=0.9063,bbox=(1378,575,1712,672),diameter=215.5px | Pothole:conf=0.8596,bbox=(1544,796,1868,935),diameter=231.5px | Pothole:conf=0.8171,bbox=(1022,352,1129,400),diameter=77.5px | Pothole:conf=0.8054,bbox=(1032,499,1201,576),diameter=123.0px",None
+13,13,4,0,"Pothole:conf=0.9376,bbox=(1444,635,1829,754),diameter=252.0px | Pothole:conf=0.9277,bbox=(1326,409,1849,534),diameter=324.0px | Pothole:conf=0.9069,bbox=(1037,367,1147,414),diameter=78.5px | Pothole:conf=0.8074,bbox=(1046,545,1238,629),diameter=138.0px",None
+14,14,4,0,"Pothole:conf=0.9046,bbox=(1521,708,1911,857),diameter=269.5px | Pothole:conf=0.8811,bbox=(1365,424,1912,578),diameter=350.5px | Pothole:conf=0.8562,bbox=(1072,599,1288,689),diameter=153.0px | Pothole:conf=0.8036,bbox=(1051,390,1163,435),diameter=78.5px",None
+15,15,3,0,"Pothole:conf=0.9255,bbox=(1402,447,1914,623),diameter=344.0px | Pothole:conf=0.9252,bbox=(1613,790,1912,969),diameter=239.0px | Pothole:conf=0.7509,bbox=(119,514,526,604),diameter=248.5px",None
+16,16,4,0,"Pothole:conf=0.8986,bbox=(1433,463,1912,656),diameter=336.0px | Pothole:conf=0.8327,bbox=(1082,430,1201,473),diameter=81.0px | Pothole:conf=0.8242,bbox=(64,542,522,647),diameter=281.5px | Pothole:conf=0.8182,bbox=(1135,714,1393,831),diameter=187.5px",None
+17,17,3,0,"Pothole:conf=0.9031,bbox=(1468,493,1913,694),diameter=323.0px | Pothole:conf=0.8534,bbox=(5,554,474,727),diameter=321.0px | Pothole:conf=0.8114,bbox=(1173,797,1469,951),diameter=225.0px",None
+18,18,3,0,"Pothole:conf=0.9225,bbox=(1522,527,1912,735),diameter=299.0px | Pothole:conf=0.8898,bbox=(1122,485,1264,542),diameter=99.5px | Pothole:conf=0.7975,bbox=(3,699,450,812),diameter=280.0px",None
+19,19,2,0,"Pothole:conf=0.9214,bbox=(1579,553,1914,761),diameter=271.5px | Pothole:conf=0.8417,bbox=(1,758,401,898),diameter=270.0px",None
+20,20,3,0,"Pothole:conf=0.9318,bbox=(1668,594,1912,801),diameter=225.5px | Pothole:conf=0.7713,bbox=(136,557,577,671),diameter=277.5px | Pothole:conf=0.7594,bbox=(591,309,776,373),diameter=124.5px",None
+21,21,1,0,"Pothole:conf=0.8646,bbox=(68,598,551,735),diameter=310.0px",None
+22,22,1,0,"Pothole:conf=0.8644,bbox=(1,667,512,824),diameter=334.0px",None
+23,23,0,0,None,None
+24,24,0,0,None,None
+25,25,2,0,"Pothole:conf=0.8811,bbox=(2,549,462,660),diameter=285.5px | Pothole:conf=0.823,bbox=(724,556,1076,668),diameter=232.0px",None
+26,26,2,0,"Pothole:conf=0.7693,bbox=(683,618,1079,749),diameter=263.5px | Pothole:conf=0.7648,bbox=(651,297,831,340),diameter=111.5px",None
+27,27,1,0,"Pothole:conf=0.9112,bbox=(651,672,1112,827),diameter=308.0px",None
+28,28,3,0,"Pothole:conf=0.8959,bbox=(628,761,1143,943),diameter=348.5px | Pothole:conf=0.8766,bbox=(7,730,289,860),diameter=206.0px | Pothole:conf=0.8304,bbox=(1357,339,1713,455),diameter=236.0px",None
+29,29,2,0,"Pothole:conf=0.7992,bbox=(1369,346,1753,469),diameter=253.5px | Pothole:conf=0.7976,bbox=(410,524,736,630),diameter=216.0px",None
+30,30,3,0,"Pothole:conf=0.8612,bbox=(392,559,738,669),diameter=228.0px | Pothole:conf=0.8542,bbox=(1389,357,1786,489),diameter=264.5px | Pothole:conf=0.7783,bbox=(1242,748,1558,960),diameter=264.0px",None
+31,31,3,0,"Pothole:conf=0.8451,bbox=(299,639,717,798),diameter=288.5px | Pothole:conf=0.8438,bbox=(612,245,737,280),diameter=80.0px | Pothole:conf=0.8362,bbox=(1435,373,1883,532),diameter=303.5px",None
+32,32,5,0,"Pothole:conf=0.8911,bbox=(1464,386,1914,568),diameter=316.0px | Pothole:conf=0.8422,bbox=(190,709,730,905),diameter=368.0px | Pothole:conf=0.8241,bbox=(704,303,920,347),diameter=130.0px | Pothole:conf=0.8227,bbox=(333,566,567,664),diameter=166.0px | Pothole:conf=0.7925,bbox=(604,250,737,292),diameter=87.5px",None
+33,33,5,0,"Pothole:conf=0.8891,bbox=(280,605,544,722),diameter=190.5px | Pothole:conf=0.8751,bbox=(1500,400,1914,598),diameter=306.0px | Pothole:conf=0.8739,bbox=(595,254,732,297),diameter=90.0px | Pothole:conf=0.8681,bbox=(723,310,916,358),diameter=120.5px | Pothole:conf=0.7822,bbox=(134,778,688,1007),diameter=391.5px",None
+34,34,3,0,"Pothole:conf=0.8506,bbox=(171,682,475,827),diameter=224.5px | Pothole:conf=0.8309,bbox=(586,259,719,306),diameter=90.0px | Pothole:conf=0.7597,bbox=(1538,426,1913,622),diameter=285.5px",None
+35,35,4,0,"Pothole:conf=0.8905,bbox=(112,728,563,898),diameter=310.5px | Pothole:conf=0.8052,bbox=(725,330,923,378),diameter=123.0px | Pothole:conf=0.8013,bbox=(580,263,724,315),diameter=98.0px | Pothole:conf=0.7815,bbox=(1577,438,1913,629),diameter=263.5px",None
+36,36,2,0,"Pothole:conf=0.8295,bbox=(1647,467,1911,642),diameter=219.5px | Pothole:conf=0.8243,bbox=(573,277,703,322),diameter=87.5px",None
+37,37,2,0,"Pothole:conf=0.8381,bbox=(1700,487,1912,609),diameter=167.0px | Pothole:conf=0.7819,bbox=(490,462,799,555),diameter=201.0px",None
+38,38,2,0,"Pothole:conf=0.8375,bbox=(450,516,785,612),diameter=215.5px | Pothole:conf=0.793,bbox=(541,296,694,358),diameter=107.5px",None
+39,39,3,0,"Pothole:conf=0.8788,bbox=(426,559,789,656),diameter=230.0px | Pothole:conf=0.8373,bbox=(532,304,689,357),diameter=105.0px | Pothole:conf=0.7649,bbox=(760,677,1105,787),diameter=227.5px",None
+40,40,4,0,"Pothole:conf=0.8507,bbox=(739,767,1147,896),diameter=268.5px | Pothole:conf=0.8387,bbox=(375,609,799,732),diameter=273.5px | Pothole:conf=0.7995,bbox=(668,412,971,502),diameter=196.5px | Pothole:conf=0.7504,bbox=(511,312,677,367),diameter=110.5px",None
+41,41,2,0,"Pothole:conf=0.9142,bbox=(315,676,814,813),diameter=318.0px | Pothole:conf=0.7608,bbox=(472,321,674,399),diameter=140.0px",None
+42,42,3,0,"Pothole:conf=0.8793,bbox=(257,731,795,891),diameter=349.0px | Pothole:conf=0.8218,bbox=(657,465,986,554),diameter=209.0px | Pothole:conf=0.8203,bbox=(473,328,667,398),diameter=132.0px",None
+43,43,0,0,None,None
+44,44,0,0,None,None
+45,45,4,0,"Pothole:conf=0.8257,bbox=(422,380,636,452),diameter=143.0px | Pothole:conf=0.7869,bbox=(733,241,869,271),diameter=83.0px | Pothole:conf=0.772,bbox=(582,451,842,536),diameter=172.5px | Pothole:conf=0.7568,bbox=(669,608,1038,733),diameter=247.0px",None
+46,46,3,0,"Pothole:conf=0.8862,bbox=(643,670,1058,810),diameter=277.5px | Pothole:conf=0.8424,bbox=(377,390,627,481),diameter=170.5px | Pothole:conf=0.8096,bbox=(546,477,840,576),diameter=196.5px",None
+47,47,3,0,"Pothole:conf=0.9017,bbox=(365,408,612,491),diameter=165.0px | Pothole:conf=0.8819,bbox=(628,746,1109,898),diameter=316.5px | Pothole:conf=0.8443,bbox=(1353,451,1565,501),diameter=131.0px",None
+48,48,2,0,"Pothole:conf=0.8629,bbox=(302,433,593,544),diameter=201.0px | Pothole:conf=0.8156,bbox=(487,547,840,668),diameter=237.0px",None
+49,49,2,0,"Pothole:conf=0.9052,bbox=(282,451,568,571),diameter=203.0px | Pothole:conf=0.8643,bbox=(455,593,843,723),diameter=259.0px",None
+50,50,3,0,"Pothole:conf=0.9386,bbox=(255,481,541,601),diameter=203.0px | Pothole:conf=0.8992,bbox=(415,668,854,805),diameter=288.0px | Pothole:conf=0.8691,bbox=(727,257,891,297),diameter=102.0px",None
+51,51,4,0,"Pothole:conf=0.8882,bbox=(194,533,521,675),diameter=234.5px | Pothole:conf=0.8877,bbox=(323,775,885,949),diameter=368.0px | Pothole:conf=0.8848,bbox=(1583,580,1913,683),diameter=216.5px | Pothole:conf=0.8238,bbox=(722,265,884,303),diameter=100.0px",None
+52,52,3,0,"Pothole:conf=0.851,bbox=(1602,481,1912,591),diameter=210.0px | Pothole:conf=0.8347,bbox=(728,273,887,309),diameter=97.5px | Pothole:conf=0.7531,bbox=(136,577,482,750),diameter=259.5px",None
+53,53,2,0,"Pothole:conf=0.8686,bbox=(720,273,893,312),diameter=106.0px | Pothole:conf=0.8161,bbox=(1668,499,1913,622),diameter=184.0px",None
+54,54,2,0,"Pothole:conf=0.8922,bbox=(0,698,401,919),diameter=311.0px | Pothole:conf=0.8439,bbox=(703,278,911,331),diameter=130.5px",None
+55,55,2,0,"Pothole:conf=0.7778,bbox=(694,289,914,341),diameter=136.0px | Pothole:conf=0.7578,bbox=(1,786,341,1025),diameter=289.5px",None
+56,56,1,0,"Pothole:conf=0.8844,bbox=(684,296,925,361),diameter=153.0px",None
+57,57,1,0,"Pothole:conf=0.9012,bbox=(689,300,929,369),diameter=154.5px",None
+58,58,1,0,"Pothole:conf=0.8064,bbox=(685,312,932,371),diameter=153.0px",None
+59,59,1,0,"Pothole:conf=0.7912,bbox=(687,320,1009,389),diameter=195.5px",None
+60,60,0,0,None,None
+61,61,0,0,None,None
+62,62,0,0,None,None
+63,63,0,0,None,None
+64,64,1,0,"Pothole:conf=0.7555,bbox=(1235,329,1781,428),diameter=322.5px",None
+65,65,1,0,"Pothole:conf=0.8236,bbox=(1254,341,1833,445),diameter=341.5px",None
+66,66,2,0,"Pothole:conf=0.8185,bbox=(1280,361,1903,473),diameter=367.5px | Pothole:conf=0.7587,bbox=(697,478,1083,587),diameter=247.5px",None
+67,67,1,0,"Pothole:conf=0.8873,bbox=(1320,365,1912,511),diameter=369.0px",None
+68,68,1,0,"Pothole:conf=0.8728,bbox=(1349,385,1912,552),diameter=365.0px",None
+69,69,1,0,"Pothole:conf=0.8983,bbox=(1386,401,1914,591),diameter=359.0px",None
+70,70,1,0,"Pothole:conf=0.8766,bbox=(1437,430,1912,633),diameter=339.0px",None
+71,71,1,0,"Pothole:conf=0.8987,bbox=(1507,460,1912,681),diameter=313.0px",None
+72,72,1,0,"Pothole:conf=0.8727,bbox=(1548,478,1912,716),diameter=301.0px",None
+73,73,1,0,"Pothole:conf=0.9247,bbox=(1651,517,1913,763),diameter=254.0px",None
+74,74,0,0,None,None
+75,75,0,0,None,None
+76,76,0,0,None,None
+77,77,0,0,None,None
+78,78,0,0,None,None
+79,79,0,0,None,None
+80,80,0,0,None,None
+81,81,1,0,"Pothole:conf=0.8109,bbox=(369,311,575,388),diameter=141.5px",None
+82,82,0,0,None,None
+83,83,0,0,None,None
+84,84,0,0,None,None
+85,85,1,0,"Pothole:conf=0.8643,bbox=(1153,325,1692,436),diameter=325.0px",None
+86,86,1,0,"Pothole:conf=0.9059,bbox=(1167,336,1739,467),diameter=351.5px",None
+87,87,2,0,"Pothole:conf=0.8927,bbox=(505,355,736,412),diameter=144.0px | Pothole:conf=0.8458,bbox=(1175,349,1800,484),diameter=380.0px",None
+88,88,3,0,"Pothole:conf=0.9226,bbox=(1182,362,1839,508),diameter=401.5px | Pothole:conf=0.8301,bbox=(505,372,746,423),diameter=146.0px | Pothole:conf=0.8104,bbox=(71,465,471,584),diameter=259.5px",None
+89,89,3,0,"Pothole:conf=0.8349,bbox=(462,401,726,464),diameter=163.5px | Pothole:conf=0.8179,bbox=(1210,380,1913,559),diameter=441.0px | Pothole:conf=0.8039,bbox=(2,519,422,654),diameter=277.5px",None
+90,90,3,0,"Pothole:conf=0.9278,bbox=(1232,407,1914,601),diameter=438.0px | Pothole:conf=0.8886,bbox=(0,595,365,735),diameter=252.5px | Pothole:conf=0.8865,bbox=(447,441,716,518),diameter=173.0px",None
+91,91,2,0,"Pothole:conf=0.9029,bbox=(1284,423,1914,640),diameter=423.5px | Pothole:conf=0.8707,bbox=(0,659,312,825),diameter=239.0px",None
+92,92,2,0,"Pothole:conf=0.8598,bbox=(1322,456,1914,665),diameter=400.5px | Pothole:conf=0.7862,bbox=(367,518,684,614),diameter=206.5px",None
+93,93,2,0,"Pothole:conf=0.927,bbox=(1365,471,1914,684),diameter=381.0px | Pothole:conf=0.8516,bbox=(352,547,682,651),diameter=217.0px",None
+94,94,2,0,"Pothole:conf=0.8682,bbox=(294,608,641,724),diameter=231.5px | Pothole:conf=0.8578,bbox=(1420,501,1912,711),diameter=351.0px",None
+95,95,2,0,"Pothole:conf=0.7984,bbox=(1480,533,1914,770),diameter=335.5px | Pothole:conf=0.7788,bbox=(186,663,621,811),diameter=291.5px",None
+96,96,3,0,"Pothole:conf=0.8769,bbox=(1513,564,1914,822),diameter=329.5px | Pothole:conf=0.8369,bbox=(109,759,591,938),diameter=330.5px | Pothole:conf=0.7734,bbox=(292,644,566,710),diameter=170.0px",None
+97,97,0,0,None,None
+98,98,0,0,None,None
+99,99,0,0,None,None
+100,100,0,0,None,None
+101,101,0,0,None,None
+102,102,1,0,"Pothole:conf=0.8119,bbox=(465,785,948,946),diameter=322.0px",None
+103,103,1,0,"Pothole:conf=0.8336,bbox=(255,620,519,710),diameter=177.0px",None
+104,104,0,0,None,None
+105,105,0,0,None,None
+106,106,0,0,None,None
+107,107,0,0,None,None
+108,108,0,0,None,None
+109,109,0,0,None,None
+110,110,0,0,None,None
+111,111,0,0,None,None
+112,112,0,0,None,None
+113,113,0,0,None,None
+114,114,0,0,None,None
+115,115,0,0,None,None
+116,116,0,0,None,None
+117,117,0,0,None,None
+118,118,1,0,"Pothole:conf=0.8229,bbox=(824,249,947,287),diameter=80.5px",None
+119,119,0,0,None,None
+120,120,1,0,"Pothole:conf=0.7909,bbox=(827,265,952,306),diameter=83.0px",None
+121,121,0,0,None,None
+122,122,0,0,None,None
+123,123,2,0,"Pothole:conf=0.7804,bbox=(834,294,986,341),diameter=99.5px | Pothole:conf=0.7622,bbox=(596,272,706,312),diameter=75.0px",None
+124,124,0,0,None,None
+125,125,0,0,None,None
+126,126,0,0,None,None
+127,127,1,0,"Pothole:conf=0.7511,bbox=(1384,425,1725,519),diameter=217.5px",None
+128,128,1,0,"Pothole:conf=0.7966,bbox=(1472,459,1837,576),diameter=241.0px",None
+129,129,1,0,"Pothole:conf=0.7617,bbox=(1555,507,1914,622),diameter=237.0px",None
+130,130,1,0,"Pothole:conf=0.8337,bbox=(1634,552,1913,679),diameter=203.0px",None
+131,131,0,0,None,None
+132,132,0,0,None,None
+133,133,0,0,None,None
+134,134,0,0,None,None
+135,135,0,0,None,None
+136,136,0,0,None,None
+137,137,0,0,None,None
+138,138,2,0,"Pothole:conf=0.7837,bbox=(510,545,722,622),diameter=144.5px | Pothole:conf=0.7608,bbox=(1137,290,1417,336),diameter=163.0px",None
+139,139,3,0,"Pothole:conf=0.8646,bbox=(482,582,726,681),diameter=171.5px | Pothole:conf=0.8592,bbox=(368,353,521,392),diameter=96.0px | Pothole:conf=0.8309,bbox=(1162,296,1436,345),diameter=161.5px",None
+140,140,2,0,"Pothole:conf=0.9494,bbox=(443,622,712,750),diameter=198.5px | Pothole:conf=0.9163,bbox=(1162,300,1462,351),diameter=175.5px",None
+141,141,2,0,"Pothole:conf=0.8668,bbox=(367,683,703,855),diameter=254.0px | Pothole:conf=0.8294,bbox=(1180,306,1480,362),diameter=178.0px",None
+142,142,4,0,"Pothole:conf=0.9107,bbox=(124,491,713,585),diameter=341.5px | Pothole:conf=0.9041,bbox=(293,745,665,939),diameter=283.0px | Pothole:conf=0.8818,bbox=(280,391,459,437),diameter=112.5px | Pothole:conf=0.8441,bbox=(1195,313,1503,371),diameter=183.0px",None
